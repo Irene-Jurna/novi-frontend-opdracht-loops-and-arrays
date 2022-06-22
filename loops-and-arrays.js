@@ -30,7 +30,7 @@ const numbers = [2, 4, 5, 29, 38];
 // Na jouw script zie je de aangepaste waardes:
 // console.log(numbers) geeft: [ 4, 8, 15, 87, 76 ];
 
-// Irene: vanaf hier snap ik het niet meer
+// Irene: vanaf hier snap ik het niet meer. Graag hulp :)
 
 for (let i = 0; i < numbers.length; i++) {
     console.log(numbers[i]);
